@@ -111,3 +111,4 @@ loves_to_play && age <= 1
 # What did your final line of code evaluate to? Why do you think that is? Explain.
 # ANSWER: My final line of code evaluated whether or not the dog loves to play and if its age is less than
 # or equal to 1. The && represent "and" meaning both variables must be true, and the <= means less than or equal to.
+# The code evaluated to true.
