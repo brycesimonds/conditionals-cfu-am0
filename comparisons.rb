@@ -59,21 +59,23 @@ puts "Is number_students less than or equal to 21?", number_students <= 21
 # Make sure YOU can explain it that way!
 
 puts 4 < 9
-#YOU DO: Explain.
+#YOU DO: Explain. - Ruby will check if 4 is less than 9 and puts false.
 
 books = 3
 puts 4 < books
-# YOU DO: Explain.
+# YOU DO: Explain. - The integer 3 is stored in the books variable. Ruby will check if 4 is less than books and puts false.
 
 friends = 6
 siblings = 2
 puts friends > siblings
-# YOU DO: Explain.
+# YOU DO: Explain. - The integer 6 is stored in the friends variable, and the integer 2 is stored in the siblings variable.
+# Ruby will check if the friends variable is greater than the siblings variable and puts true.
 
 attendees = 9;
 meals = 8;
 puts attendees != meals
-# YOU DO: Explain.
+# YOU DO: Explain. - The integer 9 is stored in the attendees variable, and the integer 8 is stored in the meals variable.
+# Ruby will check if the attendees variable is not equal to the meals variable and puts true.
 
 #-------------------
 # PART 3: Logical Operators
