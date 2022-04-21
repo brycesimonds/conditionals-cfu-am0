@@ -4,7 +4,7 @@
 # The program should print out the String "even" if the Integer is even, and the String "odd" if the Integer is odd.
 
 int_variable = 97
-if int_variable == i.even
+if int_variable == int_variable.even
   puts "even"
 else
   puts "odd"
