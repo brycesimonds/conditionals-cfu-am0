@@ -5,7 +5,7 @@ is_over_25 = true
 
 puts "Welcome to Generic Car Rental place!"
 
-If good_driving_record == true && is_over_25 == true
+if good_driving_record == true && is_over_25 == true
   puts "Lucky you! You get a discount on the car rental!"
 
 elsif good_driving_record == true || is_over_25 == true
